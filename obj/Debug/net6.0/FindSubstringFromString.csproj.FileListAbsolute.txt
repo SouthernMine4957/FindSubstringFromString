@@ -1,0 +1,15 @@
+C:\Repo\FindSubstringFromString\bin\Debug\net6.0\FindSubstringFromString.exe
+C:\Repo\FindSubstringFromString\bin\Debug\net6.0\FindSubstringFromString.deps.json
+C:\Repo\FindSubstringFromString\bin\Debug\net6.0\FindSubstringFromString.runtimeconfig.json
+C:\Repo\FindSubstringFromString\bin\Debug\net6.0\FindSubstringFromString.dll
+C:\Repo\FindSubstringFromString\bin\Debug\net6.0\FindSubstringFromString.pdb
+C:\Repo\FindSubstringFromString\obj\Debug\net6.0\FindSubstringFromString.csproj.AssemblyReference.cache
+C:\Repo\FindSubstringFromString\obj\Debug\net6.0\FindSubstringFromString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\FindSubstringFromString\obj\Debug\net6.0\FindSubstringFromString.AssemblyInfoInputs.cache
+C:\Repo\FindSubstringFromString\obj\Debug\net6.0\FindSubstringFromString.AssemblyInfo.cs
+C:\Repo\FindSubstringFromString\obj\Debug\net6.0\FindSubstringFromString.csproj.CoreCompileInputs.cache
+C:\Repo\FindSubstringFromString\obj\Debug\net6.0\FindSubstringFromString.dll
+C:\Repo\FindSubstringFromString\obj\Debug\net6.0\refint\FindSubstringFromString.dll
+C:\Repo\FindSubstringFromString\obj\Debug\net6.0\FindSubstringFromString.pdb
+C:\Repo\FindSubstringFromString\obj\Debug\net6.0\FindSubstringFromString.genruntimeconfig.cache
+C:\Repo\FindSubstringFromString\obj\Debug\net6.0\ref\FindSubstringFromString.dll
